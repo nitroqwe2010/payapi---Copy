@@ -230,4 +230,7 @@ footer .container div {
     footer img {
         margin-top: 10px;
     }
+    footer .container div {
+        gap: 10px;
+    }
 }
